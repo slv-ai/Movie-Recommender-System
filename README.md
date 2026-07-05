@@ -15,10 +15,6 @@
 - [Monitoring](#monitoring)
 - [Deployment](#deployment)
 - [Next Steps](#next-steps)
-- [Cost Analysis](#cost-analysis)
-- [Troubleshooting](#troubleshooting)
-- [Interview Talking Points](#interview-talking-points)
-
 ---
 
 ## 📖 Overview
